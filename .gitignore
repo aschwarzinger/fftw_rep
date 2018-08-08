@@ -1,0 +1,25 @@
+# Compiled source #
+###################
+*.exe
+*.dll
+*.obj
+
+# Logs and Databases #
+######################
+*.log
+*.tlog
+
+
+# Some Visual Studio Files #
+############################
+*.sdf
+*.opensdf
+*.ilk
+*.idb
+*.pdb
+*.lastbuildstate
+*.suo
+
+# Folders anywhere in the repository #
+######################################
+Debug/
